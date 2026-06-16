@@ -251,6 +251,67 @@
     { jp: ['竹中'], en: ['Takenaka'] },
     { jp: ['ヤマゼン'], en: ['Yamazen'] },
     { jp: ['九谷焼'], en: ['Kutani'] },
+
+    // ===== 第7バッチ：キッチン家電（新規のみ） =====
+    { jp: ['象印', 'ゾウジルシ'], en: ['ZOJIRUSHI'] },
+    { jp: ['バルミューダ'], en: ['BALMUDA'] },
+    { jp: ['シロカ'], en: ['siroca'] },
+    { jp: ['下村工業'], en: [] },
+
+    // ===== 第8バッチ：スマートフォン・PC周辺機器（新規のみ） =====
+    { jp: ['ディーフ'], en: ['Deff'] },
+    { jp: ['シーアイオー'], en: ['CIO'] },
+    { jp: ['モッテル'], en: ['MOTTERU'] },
+    { jp: ['オウルテック'], en: ['Owltech'] },
+    { jp: ['ハミー'], en: ['Hamee'] },
+    { jp: ['ピージーエー'], en: ['PGA'] },
+    { jp: ['ルプラス'], en: ['Leplus'] },
+    { jp: ['多摩川電機'], en: ['TREC'] },
+
+    // ===== 第9バッチ：自転車・バイク関連（新規のみ） =====
+    { jp: ['ミヤタ'], en: ['MIYATA'] },
+    { jp: ['パナレーサー'], en: ['Panaracer'] },
+    { jp: ['アラヤ'], en: ['Araya'] },
+    { jp: ['寺本自転車工業'], en: [] },
+    { jp: ['タナックス'], en: ['Tanax'] },
+    { jp: ['コミネ'], en: ['Komine'] },
+    { jp: ['ダンロップ'], en: ['Dunlop'] },
+    { jp: ['モトログ'], en: ['Motolog'] },
+    { jp: ['アピオ'], en: ['APIO'] },
+    { jp: ['プロテック'], en: ['PROTEC'] },
+    { jp: ['キジマ'], en: ['KIJIMA'] },
+    { jp: ['ナップス'], en: [] },
+    { jp: ['ウイッシュ'], en: ['WISH'] },
+    { jp: ['ハリケーン'], en: ['Hurricane'] },
+    { jp: ['デイトナ'], en: ['Daytona'] },
+
+    // ===== 第10バッチ：眼鏡・アイウェア =====
+    { jp: ['ハッタモリ'], en: ['HATTAORI'] },
+    { jp: ['ホヤ'], en: ['HOYA'] },
+    { jp: ['ニデック'], en: ['NIDEK'] },
+    { jp: ['シャルマン'], en: ['CHARMAN'] },
+    { jp: ['ジンズ', 'ジェイインズ'], en: ['JINS'] },
+    { jp: ['ゾフ'], en: ['Zoff'] },
+    { jp: ['トマト'], en: ['TOMATO'] },
+    { jp: ['オーバル'], en: ['OVAL'] },
+    { jp: ['アスピック'], en: ['ASPIC'] },
+    { jp: ['シンアイ'], en: ['SHIN-AI'] },
+    { jp: ['ロータス'], en: ['LOTUS'] },
+    { jp: ['京都眼鏡'], en: ['KYOTO GLASSES'] },
+
+    // ===== 第11バッチ：バッグ・鞄 =====
+    { jp: ['吉田カバン', 'ヨシダ'], en: ['Yoshida & Co.', 'PORTER'] },
+    { jp: ['大峽製鞄', 'オオバセイホウ'], en: ['Ohba Seihou', 'Ohba & Co.'] },
+    { jp: ['土屋鞄製造所', 'ツチヤカバンセイゾウショ'], en: ['Tsuchiya Kaban', 'Tsuchiya Kaban Manufacturing'] },
+    { jp: ['エンドー鞄', 'エンドーカバン'], en: ['Endo Kaban', 'FREQUENTER', 'NEOPRO'] },
+    { jp: ['エルゴポック', 'ヘルゴポック'], en: ['HERGOPOCH', 'Kiyomoto'] },
+    { jp: ['アネロ'], en: ['anello'] },
+    { jp: ['ハーベストレーベル', 'ハーベスト'], en: ['HARVEST LABEL', 'Harvest Corporation'] },
+    { jp: ['ココマイスター'], en: ['COCOMEISTER'] },
+    { jp: ['エース', 'プロテカ'], en: ['ACE', 'Proteca'] },
+    { jp: ['ホーボー'], en: ['hobo'] },
+    { jp: ['ペッレモルビダ'], en: ['PELLE MORBIDA'] },
+    { jp: ['サザンフィールドインダストリーズ', '南フィールド'], en: ['Southern Field Industries'] },
   ];
 
   // ===== 日本運営ブランド（海外発祥・日本企業が企画・販売運営） ========

@@ -123,6 +123,27 @@ const cases = [
   ['Takenaka 竹中 弁当箱 キッチン', true, '竹中'],
   ['Yamazen ヤマゼン こたつ 照明', true, 'ヤマゼン'],
   ['Kutani 九谷焼 磁器 食卓', true, '九谷焼'],
+
+  // --- 第7-11バッチ：キッチン家電・PC周辺・自転車・眼鏡・バッグ ---
+  ['ZOJIRUSHI 象印 炊飯器 IH', true, '象印'],
+  ['BALMUDA バルミューダ スチームオーブン', true, 'バルミューダ'],
+  ['siroca シロカ 自動調理鍋', true, 'シロカ'],
+  ['Deff ディーフ スマートフォン ケース ケブラー', true, 'ディーフ'],
+  ['CIO USB-C 充電器 GaN', true, 'CIO'],
+  ['MOTTERU モッテル ケーブル USB', true, 'モッテル'],
+  ['Hamee ハミー iPhone ケース iFace', true, 'ハミー'],
+  ['MIYATA ミヤタ 自転車 フレーム', true, 'ミヤタ'],
+  ['Panaracer パナレーサー 自転車 タイヤ', true, 'パナレーサー'],
+  ['Komine コミネ バイク ジャケット', true, 'コミネ'],
+  ['Hurricane ハリケーン バイク ハンドル', true, 'ハリケーン'],
+  ['JINS ジンズ 眼鏡 JINS PC', true, 'ジンズ'],
+  ['Zoff ゾフ 眼鏡 フレーム', true, 'ゾフ'],
+  ['HOYA ホヤ 眼鏡レンズ 光学', true, 'ホヤ'],
+  ['Yoshida & Co. 吉田カバン PORTER バッグ', true, '吉田カバン'],
+  ['PORTER ポーター トートバッグ', true, 'ポーター'],
+  ['Tsuchiya Kaban 土屋鞄 革製品', true, '土屋鞄'],
+  ['ACE エース スーツケース プロテカ', true, 'エース'],
+  ['anello アネロ リュック バッグ', true, 'アネロ'],
 ];
 
 let passed = 0;
