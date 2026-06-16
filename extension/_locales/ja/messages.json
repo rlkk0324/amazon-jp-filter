@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "日本メーカーフィルター"
+  },
+  "extensionDescription": {
+    "message": "Amazonの検索結果で日本メーカーの製品に印を付け、それ以外を薄く表示します。"
+  }
+}

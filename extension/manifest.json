@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extensionName__",
+  "version": "1.6.0",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "ja",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "__MSG_extensionName__",
+    "default_icon": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" }
+  },
+  "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" },
+  "content_scripts": [
+    {
+      "matches": ["*://www.amazon.co.jp/*", "*://amazon.co.jp/*"],
+      "js": ["maker-match.js", "content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

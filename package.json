@@ -1,0 +1,9 @@
+{
+  "name": "amazon-jp-filter",
+  "version": "1.6.0",
+  "private": true,
+  "description": "amazon.co.jp の検索結果で日本メーカー品を強調するブラウザ拡張",
+  "scripts": {
+    "test": "node extension/maker-match.test.cjs"
+  }
+}
