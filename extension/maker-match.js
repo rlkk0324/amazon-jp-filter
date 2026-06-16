@@ -202,6 +202,55 @@
     { jp: ['キッコーマン'], en: ['Kikkoman'] },
     { jp: ['宝ホールディングス'], en: ['Takara Holdings'] },
     { jp: ['ハウス食品'], en: ['House Foods'] },
+
+    // ===== 第3バッチ：衣料・アパレル・スポーツ（直系日本企業のみ） =====
+    { jp: ['ワコール'], en: ['WACOAL'] },
+    { jp: ['グンゼ'], en: ['GUNZE'] },
+    { jp: ['スピングル'], en: ['SPINGLE'] },
+
+    // ===== 第4バッチ：アウトドア・スポーツ用品 =====
+    { jp: ['スノーピーク', 'Snow Peak'], en: ['Snow Peak'] },
+    { jp: ['ロゴス', 'LOGOS'], en: ['LOGOS'] },
+    { jp: ['キャプテンスタッグ', 'Captain Stag'], en: ['Captain Stag'] },
+    { jp: ['ユニフレーム', 'UNIFLAME'], en: ['UNIFLAME'] },
+    { jp: ['オガワ', 'ogawa'], en: ['ogawa'] },
+    { jp: ['アライテント', 'Arai Tent'], en: ['Arai Tent'] },
+    { jp: ['DOD', 'ディーオーディー'], en: ['DOD'] },
+    { jp: ['シマノ'], en: ['Shimano'] },
+    { jp: ['ダイワ', 'DAIWA'], en: ['Daiwa'] },
+    { jp: ['ゼット'], en: ['Zett'] },
+
+    // ===== 第5バッチ：オーディオ・楽器・音響 =====
+    { jp: ['ズーム'], en: ['Zoom'] },
+    { jp: ['タスカム'], en: ['Tascam'] },
+    { jp: ['アイバニーズ'], en: ['Ibanez'] },
+    { jp: ['カワイ'], en: ['Kawai'] },
+    { jp: ['タカミネ'], en: ['Takamine'] },
+    { jp: ['タマ'], en: ['Tama'] },
+    { jp: ['パール'], en: ['Pearl'] },
+    { jp: ['ボス'], en: ['Boss'] },
+    { jp: ['エスピー'], en: ['ESP'] },
+    { jp: ['グレコ'], en: ['Greco'] },
+    { jp: ['フェルナンデス'], en: ['Fernandes'] },
+    { jp: ['モーリス'], en: ['Morris'] },
+
+    // ===== 第6バッチ：文具・雑貨・インテリア =====
+    { jp: ['パイロット', 'パイロットコーポレーション'], en: ['Pilot', 'Pilot Corporation'] },
+    { jp: ['コクヨ'], en: ['Kokuyo'] },
+    { jp: ['三菱鉛筆', 'ユニ'], en: ['Mitsubishi Pencil', 'Uni'] },
+    { jp: ['ゼブラ'], en: ['Zebra'] },
+    { jp: ['トンボ鉛筆'], en: ['Tombow'] },
+    { jp: ['ぺんてる'], en: ['Pentel'] },
+    { jp: ['セーラー'], en: ['Sailor'] },
+    { jp: ['プラチナ万年筆'], en: ['Platinum'] },
+    { jp: ['ミドリ'], en: ['Midori'] },
+    { jp: ['キングジム'], en: ['King Jim'] },
+    { jp: ['リヒトラブ'], en: ['Lihit Lab'] },
+    { jp: ['アピカ'], en: ['Apica'] },
+    { jp: ['マルマン'], en: ['Maruman'] },
+    { jp: ['竹中'], en: ['Takenaka'] },
+    { jp: ['ヤマゼン'], en: ['Yamazen'] },
+    { jp: ['九谷焼'], en: ['Kutani'] },
   ];
 
   // ===== 日本運営ブランド（海外発祥・日本企業が企画・販売運営） ========
